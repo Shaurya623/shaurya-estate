@@ -1,0 +1,6 @@
+{
+  "name": "Shaurya Estates",
+  "description": "Premium real estate platform for buying, renting, listing management, smart AI property recommendations, and interactive agent dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
